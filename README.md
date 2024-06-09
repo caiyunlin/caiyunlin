@@ -8,5 +8,4 @@ My name is Calvin Cai, I'm an open-source software developer, [blogger](https://
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | Docker  | C# | Node.js | JavaScript | BASH | Python | PHP |
 
-
-welcome to make friends [with me](mailto:cylin2000@163.com)
+Welcome to make friends [with me](mailto:cylin2000@163.com)
