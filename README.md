@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Calvin Cai, I'm an open-source software developer, [blogger](https://www.caiyunlin.com).  
+My name is Calvin Cai, I'm an open-source software developer, technophile, [blogger](https://www.caiyunlin.com).  
 
 <b>I offen use:</b>
 
