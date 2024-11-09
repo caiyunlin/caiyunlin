@@ -11,7 +11,7 @@ My name is Calvin Cai, I'm an open-source software developer, technophile, [blog
 Welcome to make friends [with me](mailto:cylin2000@163.com)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyunlin&theme=github_dark&hide_border=true&show_icons=true&card_width=490)
+![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyunlin&theme=github_dark&hide_border=true&show_icons=true&card_width=590)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiyunlin&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
