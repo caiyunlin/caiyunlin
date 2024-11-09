@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=435&lines=Calvin+Cai)
 
-My name is Calvin Cai, I'm an open-source software developer, [blogger](https://www.caiyunlin.com), welcome to make friends [with me](mailto:cylin2000@163.com) . 
+My name is Calvin Cai, I'm a software developer, [blogger](https://www.caiyunlin.com), welcome to make friends [with me](mailto:cylin2000@163.com) . 
 
 <b>I offen use:</b>
 
