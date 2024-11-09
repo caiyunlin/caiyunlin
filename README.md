@@ -4,9 +4,9 @@ My name is Calvin Cai, I'm a software developer, [blogger](https://www.caiyunlin
 
 <b>I offen use:</b>
 
-| <img height="28" src="assets/img/docker.svg">  | <img height="28" src="assets/img/csharp.svg"> | <img height="28" src="assets/img/nodedotjs.svg"> | <img height="28" src="assets/img/javascript.svg"> | <img height="28" src="assets/img/gnubash.svg"> | <img height="28" src="assets/img/python.svg"> | <img height="28" src="assets/img/php.svg"> |
-| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-| Docker  | C# | Node.js | JavaScript | BASH | Python | PHP |
+| <img height="28" src="assets/img/csharp.svg"> | <img height="28" src="assets/img/nodedotjs.svg"> | <img height="28" src="assets/img/javascript.svg"> | <img height="28" src="assets/img/gnubash.svg"> | <img height="28" src="assets/img/python.svg"> | <img height="28" src="assets/img/php.svg"> |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+|  C# | Node.js | JavaScript | BASH | Python | PHP |
 
 
 
