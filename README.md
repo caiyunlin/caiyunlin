@@ -13,7 +13,7 @@ My name is Calvin Cai, I'm a software developer, welcome to make friends [with m
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyunlin&theme=github_dark&hide_border=true&show_icons=true&card_width=530)
+![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyunlin&theme=github_dark&hide_border=true&show_icons=true&card_width=540)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiyunlin&theme=github_dark&hide_border=true&layout=compact&langs_count=8)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
